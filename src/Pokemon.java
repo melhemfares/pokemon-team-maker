@@ -108,7 +108,7 @@ public class Pokemon {
         String extraStr = "";
 
         if (this.name.length() < 7) {
-            extraStr = "     ";
+            extraStr = "\t";
         }
 
         return extraStr;
@@ -120,7 +120,7 @@ public class Pokemon {
         String extraStr = "";
 
         if (this.type != Type.ELECTRIC && this.type != Type.PSYCHIC && this.type != Type.FIGHTING) {
-            extraStr = "     ";
+            extraStr = "\t";
         }
 
         return extraStr;
