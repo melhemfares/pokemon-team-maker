@@ -3,7 +3,7 @@
 My Grade 12 Computer Science (ICS4U1) ISU. A project created in Java using Terminal I/O that allows the user to create a Pokemon team and moves for each Pokemon.
 
 ## 🚀 About Me
-I am a recent graduate at Chaminade College School, soon to be Computer Science major at York University. I hope to learn plenty and become a software engineer in the future.
+I am a recent graduate at Chaminade College School and currently a Computer Science major at York University. I hope to learn plenty and become a software engineer in the future.
 
 ## Lessons Learned
 
